@@ -1,4 +1,4 @@
-# Interactive Webcam Demos
+#Hand Gesture Music Controller 
 
 This workspace contains two webcam-based interactive Python demos built with OpenCV and MediaPipe Hands.
 
